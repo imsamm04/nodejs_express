@@ -11,12 +11,11 @@ app.set("views", "./views");
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.use(express.static('public'))
-
+app.use(express.static("public"));
 
 app.get("/", (req, res) => {
   res.render("index", {
-    name: "trang chu",
+    name: "Home page",
   });
 });
 
