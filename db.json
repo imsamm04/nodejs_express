@@ -1,61 +1,26 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Thinh"
-    },
-    {
-      "id": 2,
-      "name": "Viet"
-    },
-    {
-      "name": "huong ly"
-    },
-    {
-      "name": "thanh hang tran hihi",
-      "id": "9t8j2rLIj"
-    },
-    {
-      "name": "thu",
-      "id": "30uUCZorH"
-    },
-    {
-      "name": " er fe r",
-      "id": "Yp2u_zMAD"
-    },
-    {
-      "name": "ssdsedsedsd",
-      "id": "ceGhMDr3D"
-    },
-    {
-      "name": "hehehehe",
-      "id": "iphH7MRsy"
-    },
-    {
-      "name": "rtrtgt",
-      "id": "TZ7rx3sfQ"
-    },
-    {
-      "name": "linh",
-      "id": "Yvu2vOMlB"
-    },
-    {
-      "name": "sd sed",
-      "id": "wXKVoPpl3"
-    },
-    {
-      "name": "",
-      "id": "DtjgTvmvp"
-    },
-    {
-      "name": "viet ",
+      "name": "ducviet2504 ",
       "phone": "5165262",
-      "id": "hqyjHAQGo"
+      "id": "hqyjHAQGo",
+      "email": "ducviet2504@gmail.com",
+      "password": "123456"
     },
     {
       "name": "viet dep trai",
       "phone": "0386666428",
       "id": "sIcBJSklL"
+    },
+    {
+      "name": "phan dep trai",
+      "phone": "5415164351",
+      "id": "X6vO1F4C3"
+    },
+    {
+      "name": "heh",
+      "phone": "111",
+      "id": "SOGtrg9hH"
     }
   ],
   "posts": [],
